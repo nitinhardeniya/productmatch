@@ -1,0 +1,738 @@
+MATCH
+Alcatel OT 813D	http://www.infibeam.com/mobiles/i-alcatel-ot-813d-dual-sim/p-e-m-alcatel-ot-813d.html	alcatel ot 813d	M0001
+
+MATCH
+BlackBerry 9800 Torch	http://www.infibeam.com/mobiles/i-blackberry-torch-9800-os6-smartphone/p-e-m-blackberry-9800-torch.html	blackberry torch 9800	M0004
+
+MATCH
+BlackBerry Bold 9790	http://www.infibeam.com/mobiles/i-blackberry-bold-9790-smartphone/p-e-m-blackberry-bold-9790.html	blackberry bold 9790	M0005
+
+MATCH
+BlackBerry Curve 8520	http://www.infibeam.com/mobiles/i-blackberry-curve-8520-smartphone/p-e-m-blackberry-curve8520.html	blackberry curve 8520	M0007
+
+MATCH
+BlackBerry Curve 9360	http://www.infibeam.com/mobiles/i-blackberry-curve-9360-android-smartphone/p-e-m-blackberry-curve-9360.html	blackberry curve 9360	M0008
+
+MATCH
+BlackBerry Curve 9380	http://www.infibeam.com/mobiles/i-blackberry-curve-9380-smartphone/p-e-m-blackberry-curve-9380.html	blackberry curve 9380	M0009
+
+MATCH
+BlackBerry Torch 9810	http://www.infibeam.com/mobiles/i-blackberry-torch-9810-3g-smartphone/p-e-m-blackberry-torch-9810.html	blackberry torch 9810	M0011
+
+MATCH
+BlackBerry Torch 9860	http://www.infibeam.com/mobiles/i-blackberry-torch-9860-touchscreen-smartphone/p-e-m-blackberry-torch-9860.html	blackberry torch 9860	M0012
+
+MATCH
+Dell XCD28	http://www.infibeam.com/mobiles/i-dell-xcd28-3g-android-smartphone/p-e-m-dell-xcd28.html	dell xcd28	M0013
+
+MATCH
+Dell XCD35	http://www.infibeam.com/mobiles/i-dell-xcd35-android-3g-smartphone/p-e-m-dell-xcd35.html	dell xcd35	M0014
+
+MATCH
+HTC EVO 3D	http://www.infibeam.com/mobiles/i-htc-evo-3d-android-smartphone/p-e-m-htc-evo-3d.html	htc evo 3d	M0015
+
+MATCH
+Intex IN 2060	http://www.infibeam.com/mobiles/i-intex-in-2060-dual-sim/p-e-m-intex-2060.html	intex in 2060	M0020
+
+MATCH
+Intex IN 2080	http://www.infibeam.com/mobiles/i-intex-in-2080-dual-sim/p-e-m-intex-in2080.html	intex in 2080	M0021
+
+MATCH
+Intex IN 5030	http://www.infibeam.com/mobiles/i-intex-in-5030-triple-sim/p-e-m-intex-in5030.html	intex in 5030	M0022
+
+MATCH
+Karbonn K336	http://www.infibeam.com/mobiles/i-karbonn-k336-dual-sim-multimedia/p-e-m-karbonn-k336.html	karbonn k336	M0028
+
+MATCH
+Karbonn K433	http://www.infibeam.com/mobiles/i-karbonn-k433-dual-sim/p-e-m-karbonn-k433.html	karbonn k433	M0029
+
+MATCH
+Karbonn K455	http://www.infibeam.com/mobiles/i-karbonn-k455-dual-sim-slider/p-e-m-karbonn-k455.html	karbonn k455	M0401
+
+MATCH
+Karbonn K666	http://www.infibeam.com/mobiles/i-karbonn-k666-dual-sim/p-e-m-karbonn-k666.html	karbonn k666	M0031
+
+MATCH
+LG A120	http://www.infibeam.com/mobiles/i-lg-a120-dual-speaker-mobile/p-e-m-lg-a120.html	lg a120	M0032
+
+MATCH
+LG A165	http://www.infibeam.com/mobiles/i-lg-a165-dual-sim-mobile/p-e-m-lg-a165.html	lg a165	M0382
+
+MATCH
+LG A230	http://www.infibeam.com/mobiles/i-lg-a230-dual-sim-mobile/p-e-m-lg-a230.html	lg a230	M0034
+
+MATCH
+LG C105	http://www.infibeam.com/mobiles/i-lg-c105-qwerty-smartphone/p-e-m-lg-c105.html	lg c105	M0036
+
+MATCH
+LG Cookie Fresh GS290	http://www.infibeam.com/mobiles/i-lg-cookie-fresh-gs290-smartphone/p-e-m-lg-gs290.html	lg cookie fresh gs290	M0038
+
+MATCH
+LG GB110 Bullet	http://www.infibeam.com/mobiles/i-lg-gb110-bullet/p-e-m-lg-gb110bullet-bullet.html	lg gb110	M0039
+
+MATCH
+LG GS108	http://www.infibeam.com/mobiles/i-lg-gs108-mobile-phone/p-e-m-lg-gs108.html	lg gs108	M0041
+
+MATCH
+LG GS155	http://www.infibeam.com/mobiles/i-lg-gs155-mobile/p-e-m-lg-gs155.html	lg gs155	M0042
+
+MATCH
+LG GU220	http://www.infibeam.com/mobiles/i-lg-gu220-slider-mobile/p-e-m-lg-gu220.html	lg gu220	M0043
+
+MATCH
+LG GU285	http://www.infibeam.com/mobiles/i-lg-gu285-3g-slider-mobile/p-e-m-lg-gu285.html	lg gu285	M0044
+
+MATCH
+LG GX300	http://www.infibeam.com/mobiles/i-lg-gx300-dual-sim-mobile/p-e-m-lg-gx300.html	lg gx300	M0046
+
+MATCH
+LG GX500	http://www.infibeam.com/mobiles/i-lg-gx500-dual-sim-mobile/p-e-m-lg-gx500.html	lg gx500	M0047
+
+MATCH
+LG Optimus 2X P990	http://www.infibeam.com/mobiles/i-lg-optimus-2x-p990-dualcore/p-e-m-lg-optimus-2x-p990.html	lg optimus 2x p990	M0048
+
+MATCH
+LG Optimus 3D P920	http://www.infibeam.com/mobiles/i-lg-optimus-3d-p920-smartphone/p-e-m-lg-3d-p920.html	lg optimus 3d p920	M0049
+
+MATCH
+LG Optimus Black P970	http://www.infibeam.com/mobiles/i-lg-optimus-black-p970-smartphone/p-e-m-lg-optimus-black-p970.html	lg optimus black p970	M0050
+
+MATCH
+LG Optimus Hub E510	http://www.infibeam.com/mobiles/i-lg-optimus-hub-e510-smartphone/p-e-m-lg-e510.html	lg optimus hub e510	M0051
+
+MATCH
+LG Optimus Me P350	http://www.infibeam.com/mobiles/i-lg-optimus-me-p350-android/p-e-m-lg-optimus-me-p350.html	lg optimus me p350	M0052
+
+MATCH
+LG Optimus NET P690	http://www.infibeam.com/mobiles/i-lg-optimus-net-p690-smartphone/p-e-m-lg-optimus-net-p690.html	lg optimus net p690	M0053
+
+MATCH
+LG Optimus One P500	http://www.infibeam.com/mobiles/i-lg-optimus-one-p500-smartphone/p-e-m-lg-p500.html	lg optimus one p500	M0054
+
+MATCH
+LG Optimus Sol E730	http://www.infibeam.com/mobiles/i-lg-optimus-sol-e730-android/p-e-m-lg-e730.html	lg optimus sol e730	M0057
+
+MATCH
+LG P520	http://www.infibeam.com/mobiles/i-lg-p520-dual-sim-touchscreen/p-e-m-lg-p520.html	lg p520	M0058
+
+MATCH
+LG S310	http://www.infibeam.com/mobiles/i-lg-s310-mobile-phone/p-e-m-lg-s310.html	lg s310	M0059
+
+MATCH
+LG T300 Cookie Joy	http://www.infibeam.com/mobiles/i-lg-t300-cookie-joy-smartphone/p-e-m-lg-t300.html	lg t300	M0060
+
+MATCH
+LG T515	http://www.infibeam.com/mobiles/i-lg-t515-touchscreen-mobile/p-e-m-lg-t515.html	lg t515	M0061
+
+MATCH
+LG X330	http://www.infibeam.com/mobiles/i-lg-x330-dual-sim-multimedia/p-e-m-lg-x330.html	lg x330	M0062
+
+MATCH
+Lava A10	http://www.infibeam.com/mobiles/i-lava-a10-first-touch-screen/p-e-m-lava-a10.html	lava a10	M0063
+
+MATCH
+Lava A11 Dual Sim With Clamshell	http://www.infibeam.com/mobiles/i-lava-a11-dual-flip-phone/p-e-m-lava-a11.html	lava a11	M0064
+
+MATCH
+Lava A16 MTV Phone	http://www.infibeam.com/mobiles/i-lava-a16-mtv-dual-phone/p-e-m-lava-a16.html	lava a16	M0065
+
+MATCH
+Lava B5 Qwerty	http://www.infibeam.com/mobiles/i-lava-b5-qwerty-smartphone-dualsim/p-e-m-lava-b5qwerty.html	lava b5 qwerty	M0607
+
+MATCH
+Lava B8 - Dual Sim	http://www.infibeam.com/mobiles/i-lava-b8-dual-sim-qwerty/p-e-m-lava-b8.html	lava b8	M0067
+
+MATCH
+Lava KKT 30	http://www.infibeam.com/mobiles/i-lava-kkt-30-dual-sim/p-e-m-lava-kkt30.html	lava kkt 30	M0068
+
+MATCH
+Lava M70	http://www.infibeam.com/mobiles/i-lava-m70-dual-sim-smartphone/p-e-m-lava-m70.html	lava m70	M0069
+
+MATCH
+Lava M9	http://www.infibeam.com/mobiles/i-lava-m9-dual-sim-mobile/p-e-m-lava-m9.html	lava m9	M0070
+
+MATCH
+Lava S12	http://www.infibeam.com/mobiles/i-lava-s12-android-mobile/p-e-m-lava-s12.html	lava s12	M0071
+
+MATCH
+Lemon Duo 212	http://www.infibeam.com/mobiles/i-lemon-duo-212-mobile-phone/p-e-m-lemon-duo212.html	lemon duo 212	M0072
+
+MATCH
+Lemon Duo 306	http://www.infibeam.com/mobiles/i-lemon-duo-306-dual-sim/p-e-m-lemon-duo-306.html	lemon duo 306	M0073
+
+MATCH
+Lemon Duo 309	http://www.infibeam.com/mobiles/i-lemon-duo-309-gsm-mobile/p-e-m-lemon-duo309.html	lemon duo 309	M0074
+
+MATCH
+Lemon Duo 325	http://www.infibeam.com/mobiles/i-lemon-duo-325-dual-sim/p-e-m-lemon-duo325.html	lemon duo 325	M0423
+
+MATCH
+Lemon Duo 339 Super	http://www.infibeam.com/mobiles/i-lemon-duo-339-super-mobile/p-e-m-lemon-duo-339-super.html	lemon duo 339 super	M0077
+
+MATCH
+Lemon W100	http://www.infibeam.com/mobiles/i-lemon-w100-3g-mobile-phone/p-e-m-lemon-w100.html	lemon w100	M0080
+
+MATCH
+Maxx GC735	http://www.infibeam.com/mobiles/i-maxx-gc735-dual-sim-slider/p-e-m-maxx-gc735.html	maxx gc735	M0082
+
+MATCH
+Maxx MQ601	http://www.infibeam.com/mobiles/i-maxx-mq601-dual-sim-mobile/p-e-m-maxx-mq601.html	maxx mq601	M0433
+
+MATCH
+Maxx MSD7	http://www.infibeam.com/mobiles/i-maxx-msd7-dual-sim-mobile/p-e-m-maxx-msd7.html	maxx msd7	M0084
+
+MATCH
+Maxx MX124	http://www.infibeam.com/mobiles/i-maxx-mx124-dual-sim-mobile/p-e-m-maxx-mx124.html	maxx mx124	M0086
+
+MATCH
+Maxx MX250	http://www.infibeam.com/mobiles/i-maxx-mx250-dual-sim-mobile/p-e-m-maxx-mx250.html	maxx mx250	M0089
+
+MATCH
+Maxx MX349	http://www.infibeam.com/mobiles/i-maxx-mx349-jazz-dualsim-phone/p-e-m-maxx-mx349.html	maxx mx349	M0090
+
+MATCH
+Maxx MX365	http://www.infibeam.com/mobiles/i-maxx-mx365-dual-sim-mobile/p-e-m-maxx-mx365.html	maxx mx365	M0091
+
+MATCH
+Maxx MX388	http://www.infibeam.com/mobiles/i-maxx-mx388-glo-dualsim-phone/p-e-m-maxx-mx388.html	maxx mx388	M0093
+
+MATCH
+Maxx MX469	http://www.infibeam.com/mobiles/i-maxx-mx469-dual-sim-phone/p-e-m-maxx-mx469.html	maxx mx469	M0094
+
+MATCH
+Micromax A70	http://www.infibeam.com/mobiles/i-micromax-a70-android-mobile-phone/p-e-m-micromax-a70.html	micromax a70	M0095
+
+MATCH
+Micromax Andro A60	http://www.infibeam.com/mobiles/i-micromax-andro-a60-android-smartphone/p-e-m-micromax-a60.html	micromax andro a60	M0097
+
+MATCH
+Micromax GC256	http://www.infibeam.com/mobiles/i-micromax-gc256-dual-sim-mobile/p-e-m-micromax-gc256.html	micromax gc256	M0099
+
+MATCH
+Micromax GC360	http://www.infibeam.com/mobiles/i-micromax-gc360-dual-sim-mobile/p-e-m-micromax-gc360.html	micromax gc360	M0100
+
+MATCH
+Micromax M2	http://www.infibeam.com/mobiles/i-micromax-m2-dual-sim-mobile/p-e-m-micromax-m2.html	micromax m2	M0101
+
+MATCH
+Micromax Q2	http://www.infibeam.com/mobiles/i-micromax-q2-ezpad/p-e-m-micromax-q2.html	micromax q2	M0102
+
+MATCH
+Micromax Q2+	http://www.infibeam.com/mobiles/i-micromax-q2-dual-band-bluetooth/p-e-m-micromax-q2plus.html	micromax q2	M0102
+
+MATCH
+Micromax Q3 Plus Ezpad	http://www.infibeam.com/mobiles/i-micromax-q3-plus-ezpad-smartphone/p-e-m-micromax-q3-plus-ezpad.html	micromax q3	M0104
+
+MATCH
+Micromax Q35	http://www.infibeam.com/mobiles/i-micromax-q35-qwerty-mobile-phone/p-e-m-micromax-q35.html	micromax q35	M0105
+
+MATCH
+Micromax Q50	http://www.infibeam.com/mobiles/i-micromax-q50-ezpad-qwerty-mobile/p-e-m-micromax-q50.html	micromax q50	M0106
+
+MATCH
+Micromax Q56	http://www.infibeam.com/mobiles/i-micromax-q56-slider-qwerty-mobile/p-e-m-micromax-q56.html	micromax q56	M0108
+
+MATCH
+Micromax Q6	http://www.infibeam.com/mobiles/i-micromax-q6-dual-sim/p-e-m-micromax-q6.html	micromax q6	M0109
+
+MATCH
+Micromax Q7	http://www.infibeam.com/mobiles/i-micromax-q7-ezpad-dual-sim/p-e-m-micromax-q7.html	micromax q7	M0110
+
+MATCH
+Micromax Q75	http://www.infibeam.com/mobiles/i-micromax-q75-dual-sim-standby/p-e-m-micromax-q75.html	micromax q75	M0111
+
+MATCH
+Micromax Q80	http://www.infibeam.com/mobiles/i-micromax-q80-qwerty-mobile-phone/p-e-m-micromax-q80.html	micromax q80	M0112
+
+MATCH
+Micromax W900	http://www.infibeam.com/mobiles/i-micromax-w900-touchscreen-dual-sim/p-e-m-micromax-w900.html	micromax w900	M0113
+
+MATCH
+Micromax X117	http://www.infibeam.com/mobiles/i-micromax-x117-dual-sim-phone/p-e-m-micromax-x117.html	micromax x117	M0116
+
+MATCH
+Micromax X200	http://www.infibeam.com/mobiles/i-micromax-x200-dual-sim-mobile/p-e-m-micromax-x200.html	micromax x200	M0117
+
+MATCH
+Micromax X210	http://www.infibeam.com/mobiles/i-micromax-x210-dual-sim-mobile/p-e-m-micromax-x210.html	micromax x210	M0118
+
+MATCH
+Micromax X222	http://www.infibeam.com/mobiles/i-micromax-x222-touch-screen-mobile/p-e-m-micromax-x222.html	micromax x222	M0119
+
+MATCH
+Micromax X228	http://www.infibeam.com/mobiles/i-micromax-x228-dual-sim-mobile/p-e-m-micromax-x228.html	micromax x228	M0120
+
+MATCH
+Micromax X229	http://www.infibeam.com/mobiles/i-micromax-x229-dual-sim-phone/p-e-m-micromax-x229.html	micromax x229	M0121
+
+MATCH
+Micromax X230	http://www.infibeam.com/mobiles/i-micromax-x230-dual-sim-rugged/p-e-m-micromax-x230.html	micromax x230	M0122
+
+MATCH
+Micromax X231	http://www.infibeam.com/mobiles/i-micromax-x231-dual-sim-phone/p-e-m-micromax-x231.html	micromax x231	M0123
+
+MATCH
+Micromax X235 (Universal Remote)	http://www.infibeam.com/mobiles/i-micromax-x235-universal-remote/p-e-m-micromax-x235.html	micromax x235	M0124
+
+MATCH
+Micromax X263	http://www.infibeam.com/mobiles/i-micromax-x263-dual-sim-phone/p-e-m-micromax-x263.html	micromax x263	M0126
+
+MATCH
+Micromax X265	http://www.infibeam.com/mobiles/i-micromax-x265-dual-sim-mobile/p-e-m-micromax-x265.html	micromax x265	M0127
+
+MATCH
+Micromax X266	http://www.infibeam.com/mobiles/i-micromax-x266-dual-sim-mobile/p-e-m-micromax-x266.html	micromax x266	M0128
+
+MATCH
+Micromax X285	http://www.infibeam.com/mobiles/i-micromax-x285-dual-sim-mobile/p-e-m-micromax-x285.html	micromax x285	M0130
+
+MATCH
+Micromax X288	http://www.infibeam.com/mobiles/i-micromax-x288-dual-sim-phone/p-e-m-micromax-x288.html	micromax x288	M0131
+
+MATCH
+Micromax X290	http://www.infibeam.com/mobiles/i-micromax-x290-dual-sim-mobile/p-e-m-micromax-x290.html	micromax x290	M0132
+
+MATCH
+Micromax X330	http://www.infibeam.com/mobiles/i-micromax-x330-dual-sim/p-e-m-micromax-x330.html	micromax x330	M0133
+
+MATCH
+Micromax X360	http://www.infibeam.com/mobiles/i-micromax-x360-dual-sim/p-e-m-micromax-x360.html	micromax x360	M0404
+
+MATCH
+Micromax X365	http://www.infibeam.com/mobiles/i-micromax-x365-dual-sim-rugged/p-e-m-micromax-x365.html	micromax x365	M0135
+
+MATCH
+Micromax X395	http://www.infibeam.com/mobiles/i-micromax-x395-dual-sim-mobile/p-e-m-micromax-x395.html	micromax x395	M0136
+
+MATCH
+Micromax X40	http://www.infibeam.com/mobiles/i-micromax-x40-projector-phone/p-e-m-micromax-x40.html	micromax x40	M0137
+
+MATCH
+Micromax X410	http://www.infibeam.com/mobiles/i-micromax-x410-dual-sim-mobile/p-e-m-micromax-x410.html	micromax x410	M0138
+
+MATCH
+Micromax X560 Qube	http://www.infibeam.com/mobiles/i-micromax-x560-qube-smartphone/p-e-m-micromax-x560-qube.html	micromax x560	M0142
+
+MATCH
+Micromax X600	http://www.infibeam.com/mobiles/i-micromax-x600-dual-sim/p-e-m-micromax-x600.html	micromax x600	M0143
+
+MATCH
+Motorola RAZR XT910	http://www.infibeam.com/mobiles/i-motorola-razr-xt910-android-smartphone/p-e-m-motorola-razr-xt910.html	motorola razr xt910	M0152
+
+MATCH
+Nokia 100	http://www.infibeam.com/mobiles/i-nokia-100-gsm-mobile-phone/p-e-m-nokia-100.html	nokia 100	M0154
+
+MATCH
+Nokia 101	http://www.infibeam.com/mobiles/i-nokia-101-gsm-mobile-phone/p-e-m-nokia-101.html	nokia 101	M0155
+
+MATCH
+Nokia 500	http://www.infibeam.com/mobiles/i-nokia-500-touchscreen-3g-smartphone/p-e-m-nokia-500.html	nokia 500	M0161
+
+MATCH
+Nokia 5233	http://www.infibeam.com/mobiles/i-nokia-5233-touch-screen-smartphone/p-e-m-nokia-5233.html	nokia 5233	M0162
+
+MATCH
+Nokia 700	http://www.infibeam.com/mobiles/i-nokia-700-3g-touchscreen-smartphone/p-e-m-nokia-700.html	nokia 700	M0163
+
+MATCH
+Nokia 701	http://www.infibeam.com/mobiles/i-nokia-701-symbian-belle-smartphone/p-e-m-nokia-701.html	nokia 701	M0164
+
+MATCH
+Nokia 7020 ( 1 Year Manufacturer Warranty )	http://www.infibeam.com/mobiles/i-nokia-7020-fold/p-e-m-nokia-7020.html	nokia 7020	M0165
+
+MATCH
+Nokia 7230	http://www.infibeam.com/mobiles/i-nokia-7230-slide/p-e-m-nokia-7230.html	nokia 7230	M0166
+
+MATCH
+Nokia Asha 200	http://www.infibeam.com/mobiles/i-nokia-asha-200-smartphone/p-e-m-nokia-asha-200.html	nokia asha 200	M0167
+
+MATCH
+Nokia Asha 300	http://www.infibeam.com/mobiles/i-nokia-asha-300-touchscreen-mobile/p-e-m-nokia-asha-300.html	nokia asha 300	M0168
+
+MATCH
+Nokia E5	http://www.infibeam.com/mobiles/i-nokia-e5-e-series/p-e-m-nokia-e5.html	nokia e5	M0179
+
+MATCH
+Nokia E6	http://www.infibeam.com/mobiles/i-nokia-e6-touch-screen-smartphone/p-e-m-nokia-e6.html	nokia e6	M0180
+
+MATCH
+Nokia E63	http://www.infibeam.com/mobiles/i-nokia-e63-e-series-smartphone/p-e-m-nokia-e63.html	nokia e63	M0181
+
+MATCH
+Nokia Lumia 710	http://www.infibeam.com/mobiles/i-nokia-lumia-710-touchscreen-mobile/p-e-m-nokia-lumia-710.html	nokia lumia 710	M0183
+
+MATCH
+Nokia Lumia 800	http://www.infibeam.com/mobiles/i-nokia-lumia-800-touchscreen-mobile/p-e-m-nokia-lumia-800.html	nokia lumia 800	M0184
+
+MATCH
+Nokia X2-01	http://www.infibeam.com/mobiles/i-nokia-x2-01-qwerty-smartphone/p-e-m-nokia-x2-01.html	nokia x2	M0186
+
+MATCH
+Nokia X2-02	http://www.infibeam.com/mobiles/i-nokia-x2-02-dualsim-mobile/p-e-m-nokia-x2-02.html	nokia x2	M0186
+
+MATCH
+Nokia X3-02 Touch and Type	http://www.infibeam.com/mobiles/i-nokia-x3-02-touch-type/p-e-m-nokia-x3-02.html	nokia x3	M0459
+
+MATCH
+Onida F099	http://www.infibeam.com/mobiles/i-onida-f099-dual-sim-mobile/p-e-m-onida-f099.html	onida f099	M0383
+
+MATCH
+Onida F970	http://www.infibeam.com/mobiles/i-onida-f970-3g-dual-camera/p-e-m-onida-f970.html	onida f970	M0191
+
+MATCH
+Onida G145	http://www.infibeam.com/mobiles/i-onida-g145-mobile/p-e-m-onida-g145.html	onida g145	M0192
+
+MATCH
+Onida G590F	http://www.infibeam.com/mobiles/i-onida-g590f-mobile/p-e-m-onida-g590f.html	onida g590f	M0193
+
+MATCH
+Onida G725	http://www.infibeam.com/mobiles/i-onida-g725-mobile/p-e-m-onida-g725.html	onida g725	M0195
+
+MATCH
+Onida KYT005	http://www.infibeam.com/mobiles/i-onida-kyt005-dual-sim-mobile/p-e-m-onida-kyt005.html	onida kyt005	M0196
+
+MATCH
+Onida KYT007	http://www.infibeam.com/mobiles/i-onida-kyt007-gsm-mobile-phone/p-e-m-onida-kyt007.html	onida kyt007	M0373
+
+MATCH
+Samsung C3011	http://www.infibeam.com/mobiles/i-samsung-c3011-vga-camera-mobile/p-e-m-samsung-c3011.html	samsung c3011	M0200
+
+MATCH
+Samsung C3752	http://www.infibeam.com/mobiles/i-samsung-c3752-slider-dualsim-mobile/p-e-m-samsung-c3752.html	samsung c3752	M0203
+
+MATCH
+Samsung C5212	http://www.infibeam.com/mobiles/i-samsung-c5212-duos-dual-sim/p-e-m-samsung-c5212.html	samsung c5212	M0204
+
+MATCH
+Samsung C6112	http://www.infibeam.com/mobiles/i-samsung-c6112-slider-dual-sim/p-e-m-samsung-c6112.html	samsung c6112	M0205
+
+MATCH
+Samsung Corby Plus B3410	http://www.infibeam.com/mobiles/i-samsung-corby-plus-b3410-smartphone/p-e-m-samsung-corbyplus-b3410.html	samsung corby plus b3410	M0209
+
+MATCH
+Samsung Corby S3653	http://www.infibeam.com/mobiles/i-samsung-corby-s3653-touch-screen/p-e-m-samsung-corbys3653.html	samsung corby s3653	M0210
+
+MATCH
+Samsung Corby TXT B3210	http://www.infibeam.com/mobiles/i-samsung-corby-txt-b3210-smartphone/p-e-m-samsung-corbytxt-b3210.html	samsung corby txt b3210	M0211
+
+MATCH
+Samsung Galaxy 5 I5503	http://www.infibeam.com/mobiles/i-samsung-galaxy-5-i5503-android/p-e-m-samsung-i5503.html	samsung galaxy 5 i5503	M0215
+
+MATCH
+Samsung Galaxy Fit S5670	http://www.infibeam.com/mobiles/i-samsung-galaxy-fit-s5670-android/p-e-m-samsung-galaxy-fit-s5670.html	samsung galaxy fit s5670	M0216
+
+MATCH
+Samsung Galaxy Pop S5570	http://www.infibeam.com/mobiles/i-samsung-galaxy-pop-s5570-android/p-e-m-samsung-galaxypops5570.html	samsung galaxy pop s5570	M0217
+
+MATCH
+Samsung Galaxy Pro B7510	http://www.infibeam.com/mobiles/i-samsung-galaxy-pro-b7510-android/p-e-m-samsung-galaxy-pro-b7510.html	samsung galaxy pro b7510	M0218
+
+MATCH
+Samsung Galaxy Y S5360	http://www.infibeam.com/mobiles/i-samsung-galaxy-y-s5360-smartphone/p-e-m-samsung-galaxy-y-s5360.html	samsung galaxy y s5360	M0222
+
+MATCH
+Samsung Hero E2232	http://www.infibeam.com/mobiles/i-samsung-hero-e2232-dual-sim/p-e-m-samsung-e2232.html	samsung hero e2232	M0226
+
+MATCH
+Samsung Hero E3213	http://www.infibeam.com/mobiles/i-samsung-hero-e3213-3g-mobile/p-e-m-samsung-e3213.html	samsung hero e3213	M0228
+
+MATCH
+Samsung MPOWER TXT M369	http://www.infibeam.com/mobiles/i-samsung-mpower-txt-m369-mobile/p-e-m-samsung-mpower-txt-m369.html	samsung mpower txt m369	M0229
+
+MATCH
+Samsung Metro C3560	http://www.infibeam.com/mobiles/i-samsung-metro-c3560-mobile-phone/p-e-m-samsung-metro-c3560.html	samsung metro c3560	M0230
+
+MATCH
+Samsung Metro DUOS C3322	http://www.infibeam.com/mobiles/i-samsung-metro-duos-c3322-mobile/p-e-m-samsung-metro-duos-c3322.html	samsung metro duos c3322	M0231
+
+MATCH
+Samsung Omnia W I8350	http://www.infibeam.com/mobiles/i-samsung-omnia-w-i8350-mobile/p-e-m-samsung-omnia-w-i8350.html	samsung omnia w i8350	M0232
+
+MATCH
+Samsung S5200	http://www.infibeam.com/mobiles/i-samsung-metro-s5200-slider/p-e-m-samsung-s5200metro.html	samsung metro s5200	M0234
+
+MATCH
+Samsung Star Duos B7722	http://www.infibeam.com/mobiles/i-samsung-star-duos-b7722-smartphone/p-e-m-samsung-b7722-duos.html	samsung star duos b7722	M0237
+
+MATCH
+Samsung Star II S5263	http://www.infibeam.com/mobiles/i-samsung-star-ii-s5263-smartphone/p-e-m-samsung-star-ii-s5263.html	samsung star ii s5263	M0238
+
+MATCH
+Samsung Wave III S8600	http://www.infibeam.com/mobiles/i-samsung-wave-iii-s8600-java/p-e-m-samsung-s-8600-wave-iii.html	samsung wave iii s8600	M0240
+
+MATCH
+Samsung Wave M S7250	http://www.infibeam.com/mobiles/i-samsung-wave-m-s7250-smartphone/p-e-m-samsung-wave-m-s7250.html	samsung wave m s7250	M0241
+
+MATCH
+Samsung Wave Y S5380	http://www.infibeam.com/mobiles/i-samsung-wave-y-s5380-smartphone/p-e-m-samsung-wave-y-s5380.html	samsung wave y s5380	M0242
+
+MATCH
+Sony Ericsson Xperia X10 mini Pro	http://www.infibeam.com/mobiles/i-sony-ericsson-xperia-x10-mini/p-e-m-sony-ericsson-xperiax10minipro.html	sony ericsson xperia x10	M0244
+
+MATCH
+Sony Ericsson Xperia X10 mini	http://www.infibeam.com/mobiles/i-sony-ericsson-xperia-x10-mini/p-e-m-sony-ericsson-xperiax10mini.html	sony ericsson xperia x10	M0244
+
+MATCH
+Sony Ericsson Xperia X8	http://www.infibeam.com/mobiles/i-sony-ericsson-xperia-x8-android/p-e-m-sony-ericsson-xperia-x8.html	sony ericsson xperia x8	M0245
+
+MATCH
+Videocon V1307 (Black)	http://www.infibeam.com/mobiles/i-videocon-v1307-dual-sim-phone/p-e-m-videocon-v1307.html	videocon v1307	M0270
+
+MATCH
+Videocon V1402	http://www.infibeam.com/mobiles/i-videocon-v1402-dual-sim/p-e-m-videocon-v1402.html	videocon v1402	M0271
+
+MATCH
+Videocon V1410	http://www.infibeam.com/mobiles/i-videocon-v1410-dual-sim-mobile/p-e-m-videocon-v1410.html	videocon v1410	M0272
+
+MATCH
+Videocon V1412	http://www.infibeam.com/mobiles/i-videocon-v1412-dual-sim-mobile/p-e-m-videocon-v1412.html	videocon v1412	M0273
+
+MATCH
+Videocon V1414 (Black)	http://www.infibeam.com/mobiles/i-videocon-v1414-dual-sim/p-e-m-videocon-v1414.html	videocon v1414	M0274
+
+MATCH
+Videocon V1436	http://www.infibeam.com/mobiles/i-videocon-v1436-gsm-mobile-phone/p-e-m-videocon-v1436.html	videocon v1436	M0275
+
+MATCH
+Videocon V1440	http://www.infibeam.com/mobiles/i-videocon-v1440-dual-sim-phone/p-e-m-videocon-v1440.html	videocon v1440	M0276
+
+MATCH
+Videocon V1448 (Black)	http://www.infibeam.com/mobiles/i-videocon-v1448-dual-sim/p-e-m-videocon-v1448.html	videocon v1448	M0277
+
+MATCH
+Videocon V1450	http://www.infibeam.com/mobiles/i-videocon-v1450-dual-sim-mobile/p-e-m-videocon-v1450.html	videocon v1450	M0278
+
+MATCH
+Videocon V1456 (Black)	http://www.infibeam.com/mobiles/i-videocon-v1456-dual-sim/p-e-m-videocon-v1456.html	videocon v1456	M0279
+
+MATCH
+Videocon V1476	http://www.infibeam.com/mobiles/i-videocon-v1476-dual-sim-mobile/p-e-m-videocon-v1476.html	videocon v1476	M0280
+
+MATCH
+Videocon V1530	http://www.infibeam.com/mobiles/i-videocon-v1530-dual-sim-phone/p-e-m-videocon-v1530.html	videocon v1530	M0281
+
+MATCH
+Videocon V1531 (Black)	http://www.infibeam.com/mobiles/i-videocon-v1531-dual-sim-bar/p-e-m-videocon-v1531.html	videocon v1531	M0282
+
+MATCH
+Videocon V1533 (Black)	http://www.infibeam.com/mobiles/i-videocon-v1533-dual-sim/p-e-m-videocon-v1533.html	videocon v1533	M0283
+
+MATCH
+Videocon V1540 (Black)	http://www.infibeam.com/mobiles/i-videocon-v1540-dual-sim-phone/p-e-m-videocon-v1540.html	videocon v1540	M0387
+
+MATCH
+Videocon V1606 (Black)	http://www.infibeam.com/mobiles/i-videocon-v1606-gsm-dual-sim/p-e-m-videocon-v1606.html	videocon v1606	M0285
+
+MATCH
+Videocon V1611	http://www.infibeam.com/mobiles/i-videocon-v1611-dual-sim-phone/p-e-m-videocon-v1611.html	videocon v1611	M0286
+
+MATCH
+Videocon V1688	http://www.infibeam.com/mobiles/i-videocon-v1688-qwerty-dual-sim/p-e-m-videocon-v1688.html	videocon v1688	M0287
+
+MATCH
+Videocon V1705	http://www.infibeam.com/mobiles/i-videocon-v1705-dual-sim-mobile/p-e-m-videocon-v1705.html	videocon v1705	M0288
+
+MATCH
+Videocon V1755	http://www.infibeam.com/mobiles/i-videocon-v1755-touchscreen-android/p-e-m-videocon-v1755.html	videocon v1755	M0289
+
+MATCH
+Videocon V1760	http://www.infibeam.com/mobiles/i-videocon-v1760-touchscreen-mobile-phone/p-e-m-videocon-v1760.html	videocon v1760	M0290
+
+MATCH
+Videocon V202	http://www.infibeam.com/mobiles/i-videocon-v202-mobile/p-e-m-videocon-v202.html	videocon v202	M0291
+
+MATCH
+Videocon V7400	http://www.infibeam.com/mobiles/i-videocon-v7400-android-smartphone/p-e-m-videocon-v7400.html	videocon v7400	M0292
+
+MATCH
+Wynncom Y10	http://www.infibeam.com/mobiles/i-wynncom-y10-dual-sim/p-e-m-wynncom-y10.html	wynncom y10	M0294
+
+MATCH
+Wynncom Y30	http://www.infibeam.com/mobiles/i-wynncom-y30-dual-sim-mobile/p-e-m-wynncom-y30.html	wynncom y30	M0295
+
+MATCH
+Wynncom Y50	http://www.infibeam.com/mobiles/i-wynncom-y50-dual-sim/p-e-m-wynncom-y50.html	wynncom y50	M0296
+
+MATCH
+Zen X410	http://www.infibeam.com/mobiles/i-zen-x410-dual-sim-mobile/p-e-m-zen-x410.html	zen x410	M0297
+
+MATCH
+iBall Aura V36	http://www.infibeam.com/mobiles/i-iball-aura-v36-mobile-phone/p-e-m-iball-aura-v36.html	iball aura v36	M0298
+
+MATCH
+Intex IN 4470N+	http://www.infibeam.com/mobiles/i-intex-in-4470n-mobile-phone/p-e-m-intex-in4470n.html	intex in 4470n	M0299
+
+MATCH
+iBall Aspire QE-45	http://www.infibeam.com/mobiles/i-iball-aspire-qe45-dual-sim/p-e-m-iball-aspire-qe-45.html	iball aspire qe45	M0300
+
+MATCH
+Samsung-Star S5233	http://www.infibeam.com/mobiles/i-samsung-star-s5233-smartphone/p-e-m-samsung-s5233-star.html	samsung star s5233	M0427
+
+MATCH
+Onida F930-3G	http://www.infibeam.com/mobiles/i-onida-f930-3g-mobile/p-e-m-onida-f930-3g.html	onida f930 3g	M0321
+
+MATCH
+Samsung Mpower TV S239	http://www.infibeam.com/mobiles/i-samsung-mpower-tv-s239-mobile/p-e-m-samsung-mpower-tv-s239.html	samsung mpower tv s239	M0334
+
+MATCH
+VOX-VPS-309	http://www.infibeam.com/mobiles/i-vox-vps-309-touch-screen/p-e-m-vox-vps-309.html	vox vps 309	M0348
+
+MATCH
+Sony-Ericsson W8 Walkman Phone	http://www.infibeam.com/mobiles/i-sony-ericsson-w8-android-smartphone/p-e-m-sony-ericsson-w8-walkman-phone.html	sony ericsson w8	M0351
+
+MATCH
+Sony-Ericsson W8 Walkman Phone	http://www.infibeam.com/mobiles/i-sony-ericsson-w8-android-smartphone/p-e-m-sony-ericsson-w8-walkman-phone-combo.html	sony ericsson w8	M0351
+
+MATCH
+VOX- VGS-507	http://www.infibeam.com/mobiles/i-vox-vgs-507-dual-sim/p-e-m-vox-vgs-507.html	vox vgs 507	M0438
+
+MATCH
+VOX- VGS-509	http://www.infibeam.com/mobiles/i-vox-vgs-509-touch-screen/p-e-m-vox-vgs-509.html	vox vgs 509	M0360
+
+MATCH
+VOX- VGS-601	http://www.infibeam.com/mobiles/i-vox-vgs-601-touch-screen/p-e-m-vox-vgs-601.html	vox vgs 601	M0439
+
+MATCH
+VOX- VGS-603	http://www.infibeam.com/mobiles/i-vox-vgs-603-touch-screen/p-e-m-vox-vgs-603.html	vox vgs 603	M0440
+
+MATCH
+VOX- VPS-303	http://www.infibeam.com/mobiles/i-vox-vps-303-smartphone/p-e-m-vox-vps-303.html	vox vps 303	M0590
+
+MATCH
+VOX- VPS-305	http://www.infibeam.com/mobiles/i-vox-vps-305-smartphone/p-e-m-vox-vps-305.html	vox vps 305	M0364
+
+MATCH
+Samsung Wave 575 S5753 + 2GB Memory Card Free	http://www.infibeam.com/mobiles/i-samsung-wave-575-s5753-smartphone/p-e-m-samsung-wave-575-s5753.html	samsung wave 575 s5753	M0413
+
+MATCH
+Samsung Chat 335 S3353 + 2GB Memory Card Free	http://www.infibeam.com/mobiles/i-samsung-chat-335-s3353-smartphone/p-e-m-samsung-chat-335-s3353.html	samsung chat 335 s3353	M0466
+
+MATCH
+Dell Aero + Free 2 GB Card	http://www.infibeam.com/mobiles/i-dell-aero-android-smartphone/p-e-m-dell-aero.html	dell aero	M0469
+
+MATCH
+HTC ChaCha	http://www.infibeam.com/mobiles/i-htc-chacha-3g-android-smartphone/p-e-m-htc-chacha.html	htc chacha	M0470
+
+MATCH
+HTC Desire HD	http://www.infibeam.com/mobiles/i-htc-desire-hd-android-smartphone/p-e-m-htc-desire-hd.html	htc desire	M0474
+
+MATCH
+HTC Desire S	http://www.infibeam.com/mobiles/i-htc-desire-s-android-smartphone/p-e-m-htc-desire-s.html	htc desire	M0474
+
+MATCH
+HTC Desire Z	http://www.infibeam.com/mobiles/i-htc-desire-z-android-smartphone/p-e-m-htc-desire-z.html	htc desire	M0474
+
+MATCH
+HTC Desire	http://www.infibeam.com/mobiles/i-htc-desire-3g-android-smartphone/p-e-m-htc-desire.html	htc desire	M0474
+
+MATCH
+HTC Explorer 3.2 Inch Touch Screen (Royal Black)	http://www.infibeam.com/mobiles/i-htc-explorer-touch-screen-smartphone/p-e-m-htc-explorer.html	htc explorer	M0475
+
+MATCH
+HTC Incredible S + Free 8GB Memory Card	http://www.infibeam.com/mobiles/i-htc-incredible-s-android-smartphone/p-e-m-htc-incredibles.html	htc incredible s	M0476
+
+MATCH
+HTC Rhyme	http://www.infibeam.com/mobiles/i-htc-rhyme-android-smartphone/p-e-m-htc-rhyme.html	htc rhyme	M0477
+
+MATCH
+HTC Salsa C510e + Free 2GB MicroSD Card	http://www.infibeam.com/mobiles/i-htc-salsa-c510e-android-smartphone/p-e-m-htc-salsa-c510e.html	htc salsa	M0478
+
+MATCH
+HTC Sensation XE with Beats Audio	http://www.infibeam.com/mobiles/i-htc-sensation-xe-with-audio/p-e-m-htc-sensation-xe.html	htc sensation	M0481
+
+MATCH
+HTC Sensation XL	http://www.infibeam.com/mobiles/i-htc-sensation-xl-mobile/p-e-m-htc-sensation-xl.html	htc sensation	M0481
+
+MATCH
+HTC Sensation	http://www.infibeam.com/mobiles/i-htc-sensation-android-smartphone-mobile/p-e-m-htc-sensation.html	htc sensation	M0481
+
+MATCH
+HTC Wildfire S + Free 2 GB Card	http://www.infibeam.com/mobiles/i-htc-wildfire-s-android-smartphone/p-e-m-htc-wildfire-s.html	htc wildfire s	M0535
+
+MATCH
+MTS Livewire SP 100 with MTS Locked	http://www.infibeam.com/mobiles/i-mts-livewire-sp100-android-smartphone/p-e-m-mts-livewire-sp-100.html	mts livewire	M0484
+
+MATCH
+MTS Livewire ZTE N600	http://www.infibeam.com/mobiles/i-mts-livewire-zten600-android-smartphone/p-e-m-mts-zte-n600.html	mts livewire	M0484
+
+MATCH
+Micromax Q5c	http://www.infibeam.com/mobiles/i-micromax-q5c-cdma/p-e-m-micromax-q5c.html	micromax q5c	M0486
+
+MATCH
+Micromax X11i	http://www.infibeam.com/mobiles/i-micromax-x11i-dual-sim-mobile/p-e-m-micromax-x11i.html	micromax x11i	M0572
+
+MATCH
+Micromax X11i+	http://www.infibeam.com/mobiles/i-micromax-x11i-plus-dual-sim/p-e-m-micromax-x11i-plus.html	micromax x11i	M0572
+
+MATCH
+Micromax X2i	http://www.infibeam.com/mobiles/i-micromax-x2i-dual-sim/p-e-m-micromax-x2i.html	micromax x2i	M0576
+
+MATCH
+Micromax X2i+	http://www.infibeam.com/mobiles/i-micromax-x2i-dual-sim/p-e-m-micromax-x2iplus.html	micromax x2i	M0576
+
+MATCH
+Motorola Backflip	http://www.infibeam.com/mobiles/i-motorola-backflip-android-smartphone-motoblur/p-e-m-motorola-backflip.html	motorola backflip	M0492
+
+MATCH
+Motorola Defy Plus	http://www.infibeam.com/mobiles/i-motorola-defy-plus-android-smartphone/p-e-m-motorola-defy-plus.html	motorola defy plus	M0587
+
+MATCH
+Motorola Flipout MOTOBLUR (With 2 GB Memory Card)	http://www.infibeam.com/mobiles/i-motorola-flipout-motoblur-android-phone/p-e-m-motorola-flipout.html	motorola flipout	M0495
+
+MATCH
+Motorola Milestone Tablet Xt720	http://www.infibeam.com/mobiles/i-motorola-milestone-xt720-android-smartphone/p-e-m-motorola-xt720.html	motorola milestone	M0496
+
+MATCH
+Sony Ericsson Cedar	http://www.infibeam.com/mobiles/i-sony-ericsson-cedar-greenheart-mobile/p-e-m-sony-ericsson-cedar.html	sony ericsson cedar	M0503
+
+MATCH
+Sony Ericsson Elm J10i2	http://www.infibeam.com/mobiles/i-sony-ericsson-elm-j10i2/p-e-m-sony-ericsson-elmj10i2.html	sony ericsson elm	M0504
+
+MATCH
+Sony Ericsson Hazel	http://www.infibeam.com/mobiles/i-sony-ericsson-hazel-slider/p-e-m-sony-ericsson-hazel.html	sony ericsson hazel	M0505
+
+MATCH
+Sony Ericsson Spiro	http://www.infibeam.com/mobiles/i-sony-ericsson-spiro-walkman-phone/p-e-m-sony-ericsson-spiro.html	sony ericsson spiro	M0510
+
+MATCH
+Sony Ericsson U5i Vivaz	http://www.infibeam.com/mobiles/i-sony-ericsson-vivaz-u5i-smartphone/p-e-m-sony-ericsson-vivazu5i.html	sony ericsson vivaz	M0512
+
+MATCH
+Sony Ericsson Vivaz pro	http://www.infibeam.com/mobiles/i-sony-ericsson-vivaz-pro-touchscreen/p-e-m-sony-ericsson-vivazpro.html	sony ericsson vivaz	M0512
+
+MATCH
+Sony Ericsson Xperia Play	http://www.infibeam.com/mobiles/i-sony-ericsson-xperia-play-android/p-e-m-sony-ericsson-xperiaplay.html	sony ericsson xperia play	M0514
+
+MATCH
+Sony Ericsson Zylo	http://www.infibeam.com/mobiles/i-sony-ericsson-zylo-walkman/p-e-m-sony-ericsson-zylo.html	sony ericsson zylo	M0517
+
+MATCH
+Spice Blueberry Express	http://www.infibeam.com/mobiles/i-spice-blueberry-express-mobile-phone/p-e-m-spice-blueberry-express.html	spice blueberry express	M0519
+
+MATCH
+Spice Blueberry Mini	http://www.infibeam.com/mobiles/i-spice-blueberry-mini-dual-sim/p-e-m-spice-blueberry-mini.html	spice blueberry mini	M0520
+
+MATCH
+iBall Gracia	http://www.infibeam.com/mobiles/i-iball-gracia-dual-sim-mobile/p-e-m-iball-gracia.html	iball gracia	M0523
+
+MATCH
+iBall Posh Platina	http://www.infibeam.com/mobiles/i-iball-posh-platina-dual-sim/p-e-m-iball-platina.html	iball posh platina	M0524
+
+MATCH
+Karbonn K25i	http://www.infibeam.com/mobiles/i-karbonn-k25-dual-sim/p-e-m-karbonn-k25.html	karbonn k25	M0532
+
+MATCH
+Karbonn K446 + 2GB Memory Card Free	http://www.infibeam.com/mobiles/i-karbonn-k446-dual-sim/p-e-m-karbonn-k446.html	karbonn k446	M0381
+
+MATCH
+Motorola Fire XT + Free 2 GB Card	http://www.infibeam.com/mobiles/i-motorola-fire-xt-android-gingerbread/p-e-m-motorola-fire-xt.html	motorola fire xt	M0573
+
+MATCH
+iBall Andi	http://www.infibeam.com/mobiles/i-iball-andi-android-smartphone/p-e-m-iball-andi.html	iball andi	M0563
+
+MATCH
+Samsung Hero-E2232 with Free Callmate emergency charger	http://www.infibeam.com/mobiles/i-samsung-hero-e2232-dual-sim/p-e-m-samsung-combo1.html	samsung hero e2232	M0226
+
+MATCH
+Lemon iQ 707	http://www.infibeam.com/mobiles/i-lemon-iq-707-dual-sim/p-e-m-lemon-iq707.html	lemon iq 707	M0601
+
